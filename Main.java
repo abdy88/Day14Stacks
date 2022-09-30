@@ -7,6 +7,9 @@ public class Main {
 	
 		StackOperations obj2 = new StackOperations();
 		
+//		UC1 Ability to create a Stack of
+//		56->30->70
+		
 		obj2.push(70);
 
 		obj2.push(30);
