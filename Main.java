@@ -17,6 +17,13 @@ public class Main {
 		obj2.push(56);
 		
 		obj2.stackDisplay();
+		
+//		UC2
+		
+		obj2.pop();
+		
+		obj2.stackDisplay();
+		
 	
 	}
 	
